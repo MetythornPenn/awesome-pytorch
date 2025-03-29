@@ -171,3 +171,8 @@ flagged/
 # Docs
 .cache
 mkdocs-material-insiders
+
+
+*.pth
+*.onnx
+data
